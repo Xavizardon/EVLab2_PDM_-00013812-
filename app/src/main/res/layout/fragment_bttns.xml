@@ -7,6 +7,7 @@
              tools:context=".BttnsFragment">
 
     <Button
+            android:id="@+id/btn_left"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_margin="24dp"
@@ -15,6 +16,7 @@
     />
 
     <Button
+            android:id="@+id/btn_right"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_margin="24dp"
